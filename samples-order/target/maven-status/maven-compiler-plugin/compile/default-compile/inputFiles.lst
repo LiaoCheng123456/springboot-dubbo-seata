@@ -1,0 +1,8 @@
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/controller/TOrderController.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/service/TOrderServiceImpl.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/config/SeataAutoConfig.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/dubbo/OrderDubboServiceImpl.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/OrderExampleApplication.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/mapper/TOrderMapper.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/entity/TOrder.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-order/src/main/java/io/seata/samples/integration/order/service/ITOrderService.java

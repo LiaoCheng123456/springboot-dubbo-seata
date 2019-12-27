@@ -1,0 +1,8 @@
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/service/TStorageServiceImpl.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/mapper/TStorageMapper.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/service/ITStorageService.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/config/SeataAutoConfig.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/entity/TStorage.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/dubbo/StorageDubboServiceImpl.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/controller/TStorageController.java
+/Users/liaocheng/IdeaProjects/java/seata/seata-samples/springboot-dubbo-seata/samples-storage/src/main/java/io/seata/samples/integration/storage/StorageExampleApplication.java

@@ -1,0 +1,5 @@
+io/seata/samples/integration/call/service/BusinessService.class
+io/seata/samples/integration/call/config/SeataAutoConfig.class
+io/seata/samples/integration/call/controller/BusinessController.class
+io/seata/samples/integration/call/service/BusinessServiceImpl.class
+io/seata/samples/integration/call/BusinessExampleApplication.class
